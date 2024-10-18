@@ -1,5 +1,5 @@
 ARK Assistant Privacy Policy
-Effective Date: July 5, 2024
+Effective Date: October 18, 2024
 
 1. Introduction
 This Privacy Policy outlines the collection, use, storage, and disclosure of information by ARK Assistant (the "Application," "we," "us," or "our") in connection with your use of our Discord bot application for the game Ark: Survival Ascended. By using the Application, you agree to the terms of this Privacy Policy.
