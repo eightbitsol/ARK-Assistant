@@ -13,7 +13,7 @@ This Privacy Policy outlines the collection, use, storage, and disclosure of inf
 
 2.4 Epic Online Services (EOS) Data. The Application may use public information available via the Epic Online Services API, including but not limited to usernames, player IDs, and in-game activities. This information may be stored in our systems for up to one (1) month following the player's last login. Users may request the removal of their data from the Application, and we will comply within seven (7) days.
 
-2.5 General Data Usage. Information collected by the Application, including server numbers, alliances, tribes, allies, members, pincodes, and bases, may be used to improve the functionality and features of the Application. If you wish to opt out of certain data usage, please notify us via the support Discord. We are not responsible for the content, messages, or attachments sent by other users in the same channels where ARK Assistant is present.
+2.5 General Data Usage. Information collected by the Application, may be used to improve the functionality and features of the Application. If you wish to opt out of certain data usage, please notify us via the support Discord. We are not responsible for the content, messages, or attachments sent by other users in the same channels where ARK Assistant is present.
 
 3. Data Encryption
 All data collected and stored by the Application, including message content and user configuration data, is protected using encryption techniques designed to meet industry standards. We take reasonable steps to safeguard your information from unauthorized access or disclosure.
